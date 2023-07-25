@@ -1,9 +1,9 @@
 import './App.css';
+import Heroes from './components/Heroes.jsx'
 
 function App() {
   return (
-    <div className="App">
-    </div>
+    <Heroes/>
   );
 }
 
